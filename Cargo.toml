@@ -1,5 +1,5 @@
 [package]
-name = "xmltotxt"
+name = "furnidata-to-productdata"
 version = "0.1.0"
 edition = "2021"
 
